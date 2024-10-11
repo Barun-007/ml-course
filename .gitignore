@@ -11,5 +11,5 @@
 *.pkl
 *.joblib
 
-*/data/bluebook-for-bulldozers/*
+/data/bluebook-for-bulldozers/*
 /desktop.ini

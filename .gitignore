@@ -10,3 +10,6 @@
 # Model files
 *.pkl
 *.joblib
+
+*/data/bluebook-for-bulldozers/*
+/desktop.ini
